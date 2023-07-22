@@ -45,7 +45,7 @@ In the root directory of the project, update the hardhat.config.js file with you
       `npx hardhat run scripts/fileName.js --network mumbai`
 
 
-## ERC20_Token Contract
+## Contributing
 
 Please note that this project is intended for educational and testing purposes. Before deploying it on a live network, ensure proper testing and auditing to avoid potential risks. Feel free to explore the code and extend the functionalities to suit your specific needs.
 
