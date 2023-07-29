@@ -35,10 +35,10 @@ In the root directory of the project, update the hardhat.config.js file with you
 
       `npx hardhat run scripts/fileName.js --network goerli`
 
-- after that create another file for checking the balance of your token, and deploy it again but this time on the Mumbai test network
+- after that create another file for checking the balance of your token, and deploy it again on same test network
 
-      `npx hardhat run scripts/fileName.js --network mumbai`
-
+      `npx hardhat run scripts/fileName.js --network goerli`
+- after that copy the deployed file and check it on the goerli.etherscan.io and confirm it
 
 ## Contributing
 
