@@ -5,11 +5,6 @@ Welcome to the UniqueArtNFT Project!
 
 UniqueArtNFT is a straightforward ERC-721-compliant smart contract designed for creating and managing non-fungible tokens (NFTs) on the Polygon blockchain. With this contract, users can easily mint new NFTs, define their metadata through URIs, and effortlessly track the total supply and individual balances of NFTs.
 
-
-
-Please note that this project is intended for educational and testing purposes. Before deploying it on a live network, ensure proper testing and auditing to avoid potential risks. Feel free to explore the code and extend the functionalities to suit your specific needs.
-
-We hope UniqueArtNFT will serve as a useful starting point for your NFT projects on the Polygon blockchain. Happy creating and collecting!
 ## Prerequisites
 
 Before you start, make sure you have the following installed:
